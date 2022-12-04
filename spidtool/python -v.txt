@@ -1,1 +1,2 @@
+chrome-driver:https://registry.npmmirror.com/binary.html?path=chromedriver/
 3.7.6
